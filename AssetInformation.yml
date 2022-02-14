@@ -1,0 +1,7 @@
+asset:
+    title: Spark Generic Flattening
+    description: This pyspark code helps us to flatten and explode the nested columns of multiple levels with data types as struct and array.
+    products: Active Datalake Gen2, Azure Databricks.
+    scenarios: Complex XML flattening (Used in Project - Atkins)
+    tags:
+
