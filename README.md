@@ -32,7 +32,7 @@
     11.columnNameSeparator: Special characters or space in column names that needs to be replaced [String]
 
 ### Data Flow Diagram:
-![FlowDiagram.png]()
+![FlowDiagram.png](https://github.com/jayam923/Spark-Generic-Flattening/blob/main/FlowDiagram.png)
 
 ### Process Diagram:
 ![ProcessDiagram.png]()
